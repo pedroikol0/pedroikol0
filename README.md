@@ -50,6 +50,5 @@
 
 ###
 
-<img align="left" src="https://profile-counter.glitch.me/pedroikol0/count.svg?"  />
 
 ###
